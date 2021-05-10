@@ -1,0 +1,17 @@
+{
+  "name": "003_modernjsfromes6_9",
+  "version": "1.0.0",
+  "description": "\"Test nodeJS\"",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.6.1",
+    "node-math": "0.0.3"
+  }
+}
